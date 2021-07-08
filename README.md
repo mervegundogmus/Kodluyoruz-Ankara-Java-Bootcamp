@@ -6,7 +6,7 @@
 •Letter Grade<br>
 •Cashier Program
 
-# Week-1
+# Week-2
 
 •Average Calculation<br>
 •Stationery Stock List<br>
