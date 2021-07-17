@@ -3,7 +3,7 @@
 # Week-1
 
 •Fibonacci Series 🔢<br>
-•Letter Grade 🔠<br>
+•Letter Grade 💯<br>
 •Cashier Program 👩‍🌾
 
 # Week-2
